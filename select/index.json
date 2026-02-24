@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サリシノハラ feat.初音ミク",
+  "base_artist": "みきとP",
+  "createdAt": "2026-02-24T03:39:27.005699Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サリシノハラ feat.初音ミク",
+      "artist": "みきとP, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_サリシノハラ_feat.初音ミク_みきとP,_初音ミク.txt"
+    }
+  ]
+}
